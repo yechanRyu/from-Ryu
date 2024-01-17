@@ -4,6 +4,7 @@ My first year in this university is 2016. I had been in Korea for 4 years before
 
 
 > **High Hopes by Panic! At The Disco** is my favorite song, and my favorite computer game is **league of legends**. 
+
 <br>
 
-![My Student ID card](/Users/yechanryu/Desktop/webapps-repos/from-Ryu/KakaoTalk_Photo_2024-01-17-16-45-02.gif)
+![My Student ID card](/images/KakaoTalk_Photo_2024-01-17-16-45-02.gif)
