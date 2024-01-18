@@ -24,5 +24,7 @@ The table shows 4 songs that I recommend there are jazz or other kinds of music.
 ----
 
 ## Favorite Quotes
-> "six hours for a man, seven for a woman, eight for a fool" - *Napoleon*
+> "six hours for a man, seven for a woman, eight for a fool" - * Napoleon* 
+<br>
+
 >"In the end, it's not the years in your life that count. It's the life in your years." - *Abraham Lincoln*
