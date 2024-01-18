@@ -8,3 +8,15 @@ My first year in this university is 2016. I had been in Korea for 4 years before
 <br>
 
 ![My Student ID card](/images/KakaoTalk_Photo_2024-01-17-16-45-02.gif)
+
+----
+
+# The songs that I recommend
+|**Name**|**Reason**|**The person who sing or play**|
+|---|---|---:|
+| Checklist | I recomend it because when I work out it helps me to enjoy | MAX |
+| Slow Dancing | The reason I recommend it, the sound helps me to concentrate on studying very well| V |
+| Cheeck To Cheeck | I recommend it because I can enjoy the jazz when i drink coffe it is good for when I drink coffee | Ella & Louis |
+| Martini Blue | I love it when I am traveling good for the mood | DPR LIVE |
+
+The table shows 4 songs that I recommend there are jazz or other kinds of music. I recommend the songs depending on what I am doing such as working out, traveling, or drinking coffee. So, I recommend the readeers to listen to the musics when they are in the situations that I mentioned above.
