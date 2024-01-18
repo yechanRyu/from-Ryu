@@ -33,8 +33,12 @@ The table shows 4 songs that I recommend there are jazz or other kinds of music.
 
 ## Code Snippet
 **Description:** The table_name in the above code refers to the name of the table where you want to insert the data. column1, column2, column3, ... represent the names of the columns (fields) where you want to insert the values, and value1, value2, value3, ... correspond to the actual values you want to insert for each column. When you are using this code in practice, make sure to replace table_name, column1, column2, column3, ..., value1, value2, value3, ... with the actual table and column names, as well as the specific values you want to insert.
+
 '''
 INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 '''
+
+<br>
+
 [Quick link to the snippet](https://code.pieces.app/collections/sql)
